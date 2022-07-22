@@ -1,4 +1,6 @@
-![Header](./me.png)
+<p align="center">
+  <img src="./me.png" />
+</p>
 <h1 align="center">DaniDuese#0001</h1>
 
 ### Hi there 👋,
