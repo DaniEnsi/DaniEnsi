@@ -1,4 +1,6 @@
 ![Header](./me.png)
+<h1 align="center">DaniDuese#0001</h1>
+
 ### Hi there 👋,
 I am a 16 year old self taught full stack web developer and grapics designer. I really love coding, which I started around 4 years ago. I regularly code in python and html/css, but I also know Java, Node.js, C#, C++, Go and Swift just to name some of my favourites.
 
