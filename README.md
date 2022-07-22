@@ -11,7 +11,7 @@ I am a 16 year old self taught full stack web developer and grapics designer. I 
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniEnsi&layout=compact&hide_border=true&bg_color=22272e&text_color=adbac7&title_color=656d78&icon_color=656d78" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniEnsi&layout=compact&hide_border=true&bg_color=22272e&text_color=adbac7&title_color=656d78&icon_color=656d78" />
 </a>
 
 <!--
