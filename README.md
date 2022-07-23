@@ -1,7 +1,8 @@
 <p align="center">
   <img src="./me.png" />
 </p>
-<h1 align="center">DaniDuese#0001</h1>
+<h1 align="center"><a href="https://www.google.com/">DaniDuese#0001</a></h1>
+
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DaniEnsi&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=22272e&text_color=adbac7&title_color=adbac7&icon_color=656d78">
 <!--
