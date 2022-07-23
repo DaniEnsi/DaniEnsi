@@ -13,6 +13,7 @@
 ### Hi there 👋,
 I am a 16 year old self taught full stack web developer and grapics designer. I really love coding, which I started around 4 years ago. I regularly code in python and html/css, but I also know Java, Node.js, C#, C++, Go and Swift just to name some of my favourites.
 
+![DaniDuese's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DaniEnsi&hide_border=true&bg_color=22272e&color=adbac7&line=656d78&points=adbac7")
 
 <!--
 **DaniEnsi/DaniEnsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
