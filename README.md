@@ -16,6 +16,7 @@ I am a 16 year old self taught full stack web developer and grapics designer. I 
 
 ![DaniDuese's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DaniEnsi&hide_border=true&bg_color=22272e&color=adbac7&line=656d78&points=adbac7")
 
+![](https://hit.yhype.me/github/profile?user_id=74594229)
 <!--
 **DaniEnsi/DaniEnsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
