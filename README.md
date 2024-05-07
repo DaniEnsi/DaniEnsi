@@ -12,7 +12,7 @@
 -->
 
 ### Hi there 👋,
-I am a 16 year old self taught full stack web developer and grapics designer. I really love coding, which I started around 4 years ago. I regularly code in python and html/css, but I also know Java, Node.js, C#, C++, Go and Swift just to name some of my favourites.
+I am an 18-year-old self-taught full-stack web developer and ML engineer. I have a deep passion for coding, which I began exploring around 4 years ago. My primary languages are Python and HTML/CSS, but I also have experience with Java, Node.js, C#, C++, Go, and Swift.
 
 ![](https://hit.yhype.me/github/profile?user_id=74594229)
 
