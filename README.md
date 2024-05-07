@@ -12,7 +12,7 @@
 -->
 
 ### Hi there 👋,
-I am an 18-year-old self-taught full-stack web developer and ML engineer. I have a deep passion for coding, which I began exploring around 4 years ago. My primary languages are Python and HTML/CSS, but I also have experience with Java, Node.js, C#, C++, Go, and Swift.
+I am an 18-year-old self-taught full-stack web developer and ML engineer. I have a deep passion for coding, which I began exploring around 4 years ago. My primary passion lies in Typescript and Python, but I also have experience with Java, Node.js, C#, C++, Go, and Swift.
 
 ![](https://hit.yhype.me/github/profile?user_id=74594229)
 
