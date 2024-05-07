@@ -14,26 +14,17 @@
 ### Hi there 👋,
 I am an 18-year-old self-taught full-stack web developer and ML engineer. I have a deep passion for coding, which I began exploring around 4 years ago. My primary passion lies in Typescript and Python, but I also have experience with Java, Node.js, C#, C++, Go, and Swift.
 
-![](https://hit.yhype.me/github/profile?user_id=74594229)
-
 <br>
 <h1>My Organisations:</h1>
 <br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74594229/188117653-dfff9804-9a81-40af-9de4-d73fa3c0edb1.gif" />
-</p>
-<h1 align="center"><a href="https://github.com/WebStax-io">WebStax™</a></h1>
+<h2 align="left"><a href="https://github.com/BitStore-Community">ExamManager</a></h1>
 
-### Welcome 👋,
-**WebStax** is a comunity mainly focusing on giving the general public the oportunity to have their own custom portfolio, shop, etc. for an affordable price... If you would like to join us, please message <a href=https://github.com/DaniEnsi>me</a>.
+### Hi there 👋,
+ExamManager's goal is to make taking exams for students easier. We are currently in alpha stage and you can apply to contribute by dm me on <a href="https://twitter.com/dani_duese">Twitter</a>.
 
-<br>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74594229/189716877-610a87ae-046c-480e-ab9a-a19de87a0399.gif" />
-</p>
-<h1 align="center"><a href="https://github.com/BitStore-Community">BitStore™</a></h1>
+
+<h2 align="left"><a href="https://github.com/BitStore-Community">BitStore™</a></h1>
 
 ### Hi there 👋,
 BitStore is open to new members to join the community, so feel free to send a DM on <a href="https://twitter.com/dani_duese">Twitter</a> if you are interested. This Community is focused on developing custom discord tools, or other tools utilizing python, C#, etc. All Tools are free to use, but are licenced under the GNU General Public License. If you wish to contribute, you can also generate a pull request or fork it.  
-
