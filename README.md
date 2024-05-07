@@ -18,7 +18,7 @@ I am an 18-year-old self-taught full-stack web developer and ML engineer. I have
 <h1>My Organisations:</h1>
 <br>
 
-<h2 align="left"><a href="https://github.com/BitStore-Community">ExamManager</a></h1>
+<h2 align="left"><a href="https://github.com/exammanager">ExamManager</a></h1>
 
 ### Hi there 👋,
 ExamManager's goal is to make taking exams for students easier. We are currently in alpha stage and you can apply to contribute by dm me on <a href="https://twitter.com/dani_duese">Twitter</a>.
